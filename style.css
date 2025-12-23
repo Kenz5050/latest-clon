@@ -1902,10 +1902,10 @@ font-size: 20px;
 }
 .p2{
     width: 90%;
-  min-height: 200px;
-  /* border: 2px solid red; */
+  min-height: 220px;
+  border: 2px solid red;
   margin: auto;
-  margin-top: 40px;
+  margin-top: 78px;
   font-size: 15px;
   color: #888ea0;
   padding-top: 57px;
