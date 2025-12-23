@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
+    font-family: sans-serif;
   /* outline: 2px solid red; */
 }
 html body{
@@ -70,6 +71,7 @@ html body{
     /* align-items: center; 
      gap: 70px; */
     justify-content: space-around;
+   transition: background-color 1s ease;
     /* display: none; */
      /* padding-left: 65px;
     /* padding-right: 65px;  */ 
@@ -1903,12 +1905,12 @@ font-size: 20px;
 .p2{
     width: 90%;
   min-height: 220px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   margin: auto;
   margin-top: 78px;
   font-size: 15px;
   color: #888ea0;
-  padding-top: 57px;
+  padding-top: 97px;
 }
 .p3{
     width: 90%;
