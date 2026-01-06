@@ -41,15 +41,26 @@ html body{
   /* width: 50px; */
   color: white;
 }
+.container .box .row1 .lef a{
+  /* height: 40px; */
+  /* width: 50px; */
+  color: white;
+  text-decoration: none;
+}
 .header_login_button{
   background-color: blue;
   width: 80px;
   border: none;
   display: flex;
+  color: white;
   align-items: center;
   justify-content: space-around;
   border-radius: 5px;
   font-size: 16.2px;
+}
+.container .box .row1 .header_login_button a{
+  text-decoration: none;
+  color: white;
 }
 .header_user_button{
  background-color: #28a745;
@@ -130,6 +141,10 @@ html body{
   border: none;
   font-size: 15px;
   cursor: pointer;
+}
+.aside .bi a{
+  text-decoration: none;
+  color: white;
 }
 .bi:hover{
   background: #333;
@@ -1262,6 +1277,7 @@ header{
 .container .box .row1 .lef{
   display: flex;
 }
+
 .content1{
  width: 100%;
  min-height: 200px;
